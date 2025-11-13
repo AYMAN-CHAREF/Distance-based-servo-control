@@ -100,25 +100,6 @@ It represents the core logic behind a **Smart Parking Management System**.
 
 ---
 
-## 🧩 File Structure
-
-Smart_Parking_System/
-│
-├── Smart_Parking.ino # Main Arduino code (commented)
-├── README.md # Project documentation
-├── /images # Circuit and prototype pictures (optional)
-└── LICENSE # License file (MIT recommended)
-
-
----
-
-## 📸 Prototype Example
-
-*(Add your real photo or diagram here)*  
-Example:  
-![Smart Parking Prototype](images/smart_parking_demo.jpg)
-
----
 
 ## 🚀 Future Improvements
 
