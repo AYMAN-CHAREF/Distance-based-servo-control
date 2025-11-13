@@ -112,7 +112,7 @@ It represents the core logic behind a **Smart Parking Management System**.
 
 ## 🧑‍💻 Authors
 
-Developed by **[Your Name / Team Name]**  
+Developed by **Ayman Charef**  
 📍 Academic Project — Smart Parking Prototype (2025)
 
 ---
