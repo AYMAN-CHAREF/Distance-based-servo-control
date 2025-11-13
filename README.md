@@ -102,3 +102,42 @@ It represents the core logic behind a **Smart Parking Management System**.
 
 ## 🧩 File Structure
 
+Smart_Parking_System/
+│
+├── Smart_Parking.ino # Main Arduino code (commented)
+├── README.md # Project documentation
+├── /images # Circuit and prototype pictures (optional)
+└── LICENSE # License file (MIT recommended)
+
+
+---
+
+## 📸 Prototype Example
+
+*(Add your real photo or diagram here)*  
+Example:  
+![Smart Parking Prototype](images/smart_parking_demo.jpg)
+
+---
+
+## 🚀 Future Improvements
+
+- Add **Wi-Fi connectivity (ESP32)** for remote monitoring  
+- Implement a **mobile app** for reservation and payment  
+- Add **multiple sensors** to simulate multiple parking spots  
+- Integrate **cloud storage (IBM Bluemix, PubNub, or ThingSpeak)** for data logging  
+
+---
+
+## 🧑‍💻 Authors
+
+Developed by **[Your Name / Team Name]**  
+📍 Academic Project — Smart Parking Prototype (2025)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use and modify for educational purposes.
+
+---
